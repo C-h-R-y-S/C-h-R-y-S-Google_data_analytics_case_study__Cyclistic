@@ -3,8 +3,11 @@ This is the markdown file for the Google data analytics case: Cyclistic
 
 ---
 title: "Google_data_analytics_Capstone_Project_Cyclistics"
+
 author: "Chrysophyllus Paler"
+
 date: "2023-01-22"
+
 output: html_document
 ---
 
